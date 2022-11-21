@@ -1,0 +1,23 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+}
+
+#sort_button{
+    display: none;
+}
+
+#display_name{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
